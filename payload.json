@@ -1,0 +1,133 @@
+{
+  "cbcData": {
+    "childName": "김인사",
+    "childAge": 7,
+    "childGender": "남",
+    "examDate": "2026.03.12",
+    "scales": {
+      "위축": {
+        "tScore": 60,
+        "percentile": null,
+        "range": "정상",
+        "semantic": {
+          "rawRange": "준임상",
+          "standardRange": "정상",
+          "meaning": "일반 범위",
+          "clinicalNote": "정기 관찰"
+        }
+      },
+      "신체증상": {
+        "tScore": 55,
+        "percentile": null,
+        "range": "정상",
+        "semantic": {
+          "rawRange": "정상",
+          "standardRange": "정상",
+          "meaning": "일반 범위",
+          "clinicalNote": "정기 관찰"
+        }
+      },
+      "우울/불안": {
+        "tScore": 63,
+        "percentile": null,
+        "range": "정상",
+        "semantic": {
+          "rawRange": "준임상",
+          "standardRange": "정상",
+          "meaning": "일반 범위",
+          "clinicalNote": "정기 관찰"
+        }
+      },
+      "사회적 미성숙": {
+        "tScore": 62,
+        "percentile": null,
+        "range": "정상",
+        "semantic": {
+          "rawRange": "준임상",
+          "standardRange": "정상",
+          "meaning": "일반 범위",
+          "clinicalNote": "정기 관찰"
+        }
+      },
+      "사고의 문제": {
+        "tScore": 57,
+        "percentile": null,
+        "range": "정상",
+        "semantic": {
+          "rawRange": "정상",
+          "standardRange": "정상",
+          "meaning": "일반 범위",
+          "clinicalNote": "정기 관찰"
+        }
+      },
+      "주의집중 문제": {
+        "tScore": 66,
+        "percentile": 95,
+        "range": "준임상",
+        "semantic": {
+          "rawRange": "준임상",
+          "standardRange": "준임상",
+          "meaning": "위험 신호",
+          "clinicalNote": "추적 관찰 필요"
+        }
+      },
+      "비행": {
+        "tScore": 52,
+        "percentile": null,
+        "range": "정상",
+        "semantic": {
+          "rawRange": "정상",
+          "standardRange": "정상",
+          "meaning": "일반 범위",
+          "clinicalNote": "정기 관찰"
+        }
+      },
+      "공격성": {
+        "tScore": 50,
+        "percentile": null,
+        "range": "정상",
+        "semantic": {
+          "rawRange": "정상",
+          "standardRange": "정상",
+          "meaning": "일반 범위",
+          "clinicalNote": "정기 관찰"
+        }
+      }
+    },
+    "broadband": {
+      "internalizing": {
+        "tScore": 61,
+        "percentile": null,
+        "range": "준임상",
+        "semantic": {
+          "rawRange": "준임상",
+          "standardRange": "준임상",
+          "meaning": "위험 신호",
+          "clinicalNote": "추적 관찰 필요"
+        }
+      },
+      "externalizing": {
+        "tScore": 54,
+        "percentile": null,
+        "range": "정상",
+        "semantic": {
+          "rawRange": "정상",
+          "standardRange": "정상",
+          "meaning": "일반 범위",
+          "clinicalNote": "정기 관찰"
+        }
+      },
+      "total": {
+        "tScore": 58,
+        "percentile": null,
+        "range": "정상",
+        "semantic": {
+          "rawRange": "정상",
+          "standardRange": "정상",
+          "meaning": "일반 범위",
+          "clinicalNote": "정기 관찰"
+        }
+      }
+    }
+  }
+}
