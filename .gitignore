@@ -1,0 +1,17 @@
+cat > .gitignore << 'EOF'
+# Dependencies
+node_modules/
+server/node_modules/
+
+# Environment Variables (🚨 가장 중요)
+.env
+server/.env
+
+# Test Outputs
+extract_result.json
+explain_input.json
+*.json
+
+# Mac OS
+.DS_Store
+.vscode/
